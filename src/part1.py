@@ -51,7 +51,7 @@ def multiply(a, b):
     Returns:
         int: The product of a and b
     """
-    pass
+    return a * b
 
 def divide(a, b):
     """
@@ -64,7 +64,7 @@ def divide(a, b):
     Returns:
         float: The division of a and b
     """
-    pass
+    return a / b
 
 def floor_divide(a, b):
     """
@@ -77,7 +77,7 @@ def floor_divide(a, b):
     Returns:
         int: The result of floor division of a and b
     """
-    pass
+    return a // b
 
 
 def get_remainder(a, b):
@@ -91,7 +91,7 @@ def get_remainder(a, b):
     Returns:
         int: The remainder of a and b
     """
-    pass
+    return a % b
 
 def increment(a):
     """
